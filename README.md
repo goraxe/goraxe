@@ -5,14 +5,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/website](https://github.com/goraxe/website) - 
+- [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🌱 My latest projects
 
-- [goraxe/website](https://github.com/goraxe/website) - 
+- [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
