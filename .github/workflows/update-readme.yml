@@ -54,7 +54,8 @@ jobs:
           #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
   markscribe:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
