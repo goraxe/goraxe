@@ -54,6 +54,8 @@ jobs:
           #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
   markscribe:
     runs-on: ubuntu-latest
+    needs: 
+      - github-metrics
     permissions:
       contents: write
     steps:
