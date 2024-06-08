@@ -26,14 +26,14 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           #token: ${{ secrets.GH_PAT }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
           # Options
           user: goraxe
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Canda/Vancouver
-          plugin_gists: yes
+          plugin_gists: no
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
