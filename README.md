@@ -19,11 +19,11 @@
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency helm to v3.15.2](https://github.com/goraxe-org/vultr-helm-charts/pull/37) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency lint-staged to v15.2.6](https://github.com/goraxe/generator-semantic-release/pull/129) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency prettier to v3.3.2](https://github.com/goraxe/generator-semantic-release/pull/128) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency nyc to v17](https://github.com/goraxe/git-release/pull/89) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [Update asdf-vm/actions action to v3](https://github.com/goraxe/website/pull/2) on [goraxe/website](https://github.com/goraxe/website)
-- [Update AndreasAugustin/actions-template-sync action to v2.2.1](https://github.com/goraxe/website/pull/1) on [goraxe/website](https://github.com/goraxe/website)
 ### ⭐ Recent Stars
 
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
