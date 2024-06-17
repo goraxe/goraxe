@@ -26,10 +26,10 @@
 - [chore(deps): update dependency nyc to v17](https://github.com/goraxe/git-release/pull/89) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
+- [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) - Neovim Indentation Line with Animations
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [MillenniumMachines/Milo-v1.5](https://github.com/MillenniumMachines/Milo-v1.5) - Milo is an open-source project for DIYers to create a reliable, low cost and powerful desktop CNC mill on their own terms.
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 
 ![](https://komarev.com/ghpvc/?username=goraxe)
