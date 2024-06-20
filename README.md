@@ -19,11 +19,11 @@
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency node to v20.15.0](https://github.com/goraxe/git-release/pull/91) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency node to v20.15.0](https://github.com/goraxe/generator-semantic-release/pull/132) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.2.3](https://github.com/goraxe-org/vultr-helm-charts/pull/38) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.2.3](https://github.com/goraxe/git-release/pull/90) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.2.3](https://github.com/goraxe/generator-semantic-release/pull/131) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [Merge/upstream](https://github.com/goraxe/neotest/pull/2) on [goraxe/neotest](https://github.com/goraxe/neotest)
-- [Sync to master](https://github.com/goraxe/neotest/pull/1) on [goraxe/neotest](https://github.com/goraxe/neotest)
 ### ⭐ Recent Stars
 
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) - Neovim Indentation Line with Animations
