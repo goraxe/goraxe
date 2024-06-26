@@ -26,10 +26,10 @@
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.2.3](https://github.com/goraxe-org/vultr-helm-charts/pull/38) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
+- [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) - Neovim Indentation Line with Animations
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [MillenniumMachines/Milo-v1.5](https://github.com/MillenniumMachines/Milo-v1.5) - Milo is an open-source project for DIYers to create a reliable, low cost and powerful desktop CNC mill on their own terms.
 
 ![](https://komarev.com/ghpvc/?username=goraxe)
