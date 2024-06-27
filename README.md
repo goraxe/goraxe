@@ -19,11 +19,11 @@
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 ### 🔨 My recent Pull Requests
 
+- [Update dependency org.springframework.boot:spring-boot-starter-parent to v3](https://github.com/goraxe/rssreader/pull/18) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency com.google.guava:guava to v33](https://github.com/goraxe/rssreader/pull/17) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency org.jacoco:jacoco-maven-plugin to v0.8.12](https://github.com/goraxe/rssreader/pull/16) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency org.apache.maven.plugins:maven-site-plugin to v3.12.1](https://github.com/goraxe/rssreader/pull/15) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update dependency node to v20.15.0](https://github.com/goraxe/git-release/pull/91) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency node to v20.15.0](https://github.com/goraxe/generator-semantic-release/pull/132) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update andreasaugustin/actions-template-sync action to v2.2.3](https://github.com/goraxe-org/vultr-helm-charts/pull/38) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
