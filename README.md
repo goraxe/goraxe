@@ -22,7 +22,7 @@
 - [Update dependency org.springframework.boot:spring-boot-starter-parent to v3](https://github.com/goraxe/rssreader/pull/18) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency com.google.guava:guava to v33](https://github.com/goraxe/rssreader/pull/17) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency org.jacoco:jacoco-maven-plugin to v0.8.12](https://github.com/goraxe/rssreader/pull/16) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Update dependency org.apache.maven.plugins:maven-site-plugin to v3.12.1](https://github.com/goraxe/rssreader/pull/15) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency org.apache.maven.plugins:maven-site-plugin to v3.12.1 - autoclosed](https://github.com/goraxe/rssreader/pull/15) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update dependency node to v20.15.0](https://github.com/goraxe/git-release/pull/91) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
