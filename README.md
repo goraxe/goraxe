@@ -20,7 +20,7 @@
 ### 🔨 My recent Pull Requests
 
 - [chore(deps): update dependency node to v20.15.1](https://github.com/goraxe/git-release/pull/93) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency golang to v1.22.5](https://github.com/goraxe-org/vultr-helm-charts/pull/39) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/39) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency git-log-parser to v1.2.1](https://github.com/goraxe/git-release/pull/92) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [Update dependency org.springframework.boot:spring-boot-starter-parent to v3](https://github.com/goraxe/rssreader/pull/18) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency com.google.guava:guava to v33](https://github.com/goraxe/rssreader/pull/17) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
