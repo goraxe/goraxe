@@ -19,11 +19,11 @@
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency eslint-plugin-prettier to v5.2.1](https://github.com/goraxe/generator-semantic-release/pull/136) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency @babel/core to v7.24.9](https://github.com/goraxe/generator-semantic-release/pull/135) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency prettier to v3.3.3](https://github.com/goraxe/generator-semantic-release/pull/134) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update babel monorepo to v7.24.8](https://github.com/goraxe/generator-semantic-release/pull/133) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency node to v20.15.1](https://github.com/goraxe/git-release/pull/93) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/39) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
