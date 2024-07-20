@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
-- [goraxe/template](https://github.com/goraxe/template) - 
 ### 🌱 My latest projects
 
+- [goraxe/workflows](https://github.com/goraxe/workflows) - 
+- [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 - [goraxe/template](https://github.com/goraxe/template) - 
-- [goraxe/git-release](https://github.com/goraxe/git-release) - 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 ### 🔨 My recent Pull Requests
 
+- [chore: Configure Renovate](https://github.com/goraxe/rust-ibkr-cpapi/pull/1) on [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi)
 - [chore(deps): update dependency xo to v0.59.0](https://github.com/goraxe/git-release/pull/94) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency husky to v9.1.1](https://github.com/goraxe/generator-semantic-release/pull/138) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency husky to v9.1.0](https://github.com/goraxe/generator-semantic-release/pull/137) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency eslint-plugin-prettier to v5.2.1](https://github.com/goraxe/generator-semantic-release/pull/136) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency @babel/core to v7.24.9](https://github.com/goraxe/generator-semantic-release/pull/135) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
