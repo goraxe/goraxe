@@ -19,11 +19,11 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency node to v20.16.0](https://github.com/goraxe/git-release/pull/96) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency node to v20.16.0](https://github.com/goraxe/generator-semantic-release/pull/139) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency xo to v0.59.2](https://github.com/goraxe/git-release/pull/95) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore: Configure Renovate](https://github.com/goraxe/rust-ibkr-cpapi/pull/1) on [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi)
 - [chore(deps): update dependency xo to v0.59.1](https://github.com/goraxe/git-release/pull/94) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency husky to v9.1.1](https://github.com/goraxe/generator-semantic-release/pull/138) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency husky to v9.1.0](https://github.com/goraxe/generator-semantic-release/pull/137) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
