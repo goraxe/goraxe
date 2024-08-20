@@ -19,11 +19,11 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency husky to v9.1.5](https://github.com/goraxe/generator-semantic-release/pull/149) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency semantic-release to v24.1.0](https://github.com/goraxe/generator-semantic-release/pull/148) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency helm to v3.15.4](https://github.com/goraxe-org/vultr-helm-charts/pull/42) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency golang to v1.23.0](https://github.com/goraxe-org/vultr-helm-charts/pull/41) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency lint-staged to v15.2.9](https://github.com/goraxe/generator-semantic-release/pull/147) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency golang to v1.22.6](https://github.com/goraxe-org/vultr-helm-charts/pull/40) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
