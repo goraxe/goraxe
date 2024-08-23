@@ -19,11 +19,11 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🔨 My recent Pull Requests
 
+- [fix(deps): update dependency micromatch to v4.0.8](https://github.com/goraxe/git-release/pull/100) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency @babel/preset-env to v7.25.4](https://github.com/goraxe/generator-semantic-release/pull/151) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency node to v20.17.0](https://github.com/goraxe/git-release/pull/99) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency node to v20.17.0](https://github.com/goraxe/generator-semantic-release/pull/150) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency husky to v9.1.5](https://github.com/goraxe/generator-semantic-release/pull/149) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency semantic-release to v24.1.0](https://github.com/goraxe/generator-semantic-release/pull/148) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
