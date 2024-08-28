@@ -26,10 +26,10 @@
 - [chore(deps): update dependency husky to v9.1.5](https://github.com/goraxe/generator-semantic-release/pull/149) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
+- [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) - Neovim Indentation Line with Animations
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
 
 ![](https://komarev.com/ghpvc/?username=goraxe)
