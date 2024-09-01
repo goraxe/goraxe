@@ -19,11 +19,11 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency lint-staged to v15.2.10](https://github.com/goraxe/generator-semantic-release/pull/153) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [Update dependency puppeteer to v1 [SECURITY]](https://github.com/goraxe/rssreader-ui/pull/18) on [goraxe/rssreader-ui](https://github.com/goraxe/rssreader-ui)
 - [Update dependency karma to v6 [SECURITY]](https://github.com/goraxe/rssreader-ui/pull/17) on [goraxe/rssreader-ui](https://github.com/goraxe/rssreader-ui)
 - [Update dependency https-proxy-agent to v2.2.3 [SECURITY]](https://github.com/goraxe/rssreader-ui/pull/16) on [goraxe/rssreader-ui](https://github.com/goraxe/rssreader-ui)
 - [chore(deps): update dependency yeoman-test to v9](https://github.com/goraxe/generator-semantic-release/pull/152) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [fix(deps): update dependency micromatch to v4.0.8](https://github.com/goraxe/git-release/pull/100) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
