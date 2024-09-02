@@ -19,11 +19,11 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🔨 My recent Pull Requests
 
+- [Update dependency org.hamcrest:hamcrest-core to v3](https://github.com/goraxe/rssreader/pull/23) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency org.apache.maven.plugins:maven-project-info-reports-plugin to v3](https://github.com/goraxe/rssreader/pull/22) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency org.apache.maven.plugins:maven-javadoc-plugin to v3](https://github.com/goraxe/rssreader/pull/21) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency com.google.cloud.tools:appengine-maven-plugin to v2](https://github.com/goraxe/rssreader/pull/20) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Update dependency org.mockito:mockito-core to v2.28.2](https://github.com/goraxe/rssreader/pull/19) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [chore(deps): update dependency lint-staged to v15.2.10](https://github.com/goraxe/generator-semantic-release/pull/153) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
