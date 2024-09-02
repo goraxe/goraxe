@@ -19,11 +19,11 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🔨 My recent Pull Requests
 
+- [Update dependency com.google.cloud.tools:appengine-maven-plugin to v2](https://github.com/goraxe/rssreader/pull/20) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency org.mockito:mockito-core to v2.28.2](https://github.com/goraxe/rssreader/pull/19) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update dependency lint-staged to v15.2.10](https://github.com/goraxe/generator-semantic-release/pull/153) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [Update dependency puppeteer to v1 [SECURITY]](https://github.com/goraxe/rssreader-ui/pull/18) on [goraxe/rssreader-ui](https://github.com/goraxe/rssreader-ui)
 - [Update dependency karma to v6 [SECURITY]](https://github.com/goraxe/rssreader-ui/pull/17) on [goraxe/rssreader-ui](https://github.com/goraxe/rssreader-ui)
-- [Update dependency https-proxy-agent to v2.2.3 [SECURITY]](https://github.com/goraxe/rssreader-ui/pull/16) on [goraxe/rssreader-ui](https://github.com/goraxe/rssreader-ui)
-- [chore(deps): update dependency yeoman-test to v9](https://github.com/goraxe/generator-semantic-release/pull/152) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
