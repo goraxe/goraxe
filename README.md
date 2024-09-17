@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency eslint to v8.57.1](https://github.com/goraxe/generator-semantic-release/pull/156) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency sinon to v19.0.2](https://github.com/goraxe/git-release/pull/105) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency sinon to v19.0.1](https://github.com/goraxe/git-release/pull/104) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency helm to v3.16.1](https://github.com/goraxe-org/vultr-helm-charts/pull/45) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency sinon to v19](https://github.com/goraxe/git-release/pull/103) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency husky to v9.1.6](https://github.com/goraxe/generator-semantic-release/pull/155) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
