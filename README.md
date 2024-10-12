@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency yeoman-test to v10](https://github.com/goraxe/generator-semantic-release/pull/161) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency helm to v3.16.2](https://github.com/goraxe-org/vultr-helm-charts/pull/47) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update babel monorepo to v7.25.8](https://github.com/goraxe/generator-semantic-release/pull/160) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency node to v20.18.0](https://github.com/goraxe/git-release/pull/107) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency node to v20.18.0](https://github.com/goraxe/generator-semantic-release/pull/159) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update babel monorepo to v7.25.7](https://github.com/goraxe/generator-semantic-release/pull/158) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
