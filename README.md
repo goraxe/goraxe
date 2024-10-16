@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update andreasaugustin/actions-template-sync action to v2.4.1](https://github.com/goraxe-org/vultr-helm-charts/pull/48) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.4.1](https://github.com/goraxe/git-release/pull/109) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.3.0](https://github.com/goraxe/git-release/pull/108) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.4.1](https://github.com/goraxe/generator-semantic-release/pull/162) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency yeoman-test to v10](https://github.com/goraxe/generator-semantic-release/pull/161) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency helm to v3.16.2](https://github.com/goraxe-org/vultr-helm-charts/pull/47) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
