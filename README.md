@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
-- [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
 ### 🌱 My latest projects
 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency node to v20.18.1](https://github.com/goraxe/git-release/pull/112) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update andreasaugustin/actions-template-sync action to v2.4.2](https://github.com/goraxe/git-release/pull/111) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency eslint-plugin-prettier to v5.2.2](https://github.com/goraxe/generator-semantic-release/pull/169) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update andreasaugustin/actions-template-sync action to v2.4.2](https://github.com/goraxe/generator-semantic-release/pull/168) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency golang to v1.23.3](https://github.com/goraxe-org/vultr-helm-charts/pull/49) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update dependency node to v22](https://github.com/goraxe/generator-semantic-release/pull/167) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency ava to v6.2.0](https://github.com/goraxe/git-release/pull/110) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency semantic-release to v24.2.0](https://github.com/goraxe/generator-semantic-release/pull/166) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update babel monorepo to v7.26.0](https://github.com/goraxe/generator-semantic-release/pull/165) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
