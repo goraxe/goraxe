@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
+- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
@@ -22,7 +22,7 @@
 - [chore(deps): update dependency eslint-config-prettier to v10](https://github.com/goraxe/generator-semantic-release/pull/177) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [fix(deps): update dependency chalk to v5.4.1](https://github.com/goraxe/generator-semantic-release/pull/176) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency prettier to v3.4.2](https://github.com/goraxe/generator-semantic-release/pull/175) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency lint-staged to v15.4.0](https://github.com/goraxe/generator-semantic-release/pull/174) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update dependency lint-staged to v15.4.1](https://github.com/goraxe/generator-semantic-release/pull/174) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [fix(deps): update dependency debug to v4.4.0](https://github.com/goraxe/git-release/pull/115) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
