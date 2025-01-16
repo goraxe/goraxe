@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
-- [chore(deps): update dependency xo to v0.60.0](https://github.com/goraxe/git-release/pull/114) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency fs-extra to v11.3.0](https://github.com/goraxe/git-release/pull/113) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency node to v20.18.1](https://github.com/goraxe/generator-semantic-release/pull/171) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency husky to v9.1.7](https://github.com/goraxe/generator-semantic-release/pull/170) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency node to v20.18.1](https://github.com/goraxe/git-release/pull/112) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [fix(deps): update dependency debug to v4.4.0](https://github.com/goraxe/git-release/pull/115) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency fs-extra to v11.3.0](https://github.com/goraxe/generator-semantic-release/pull/173) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update dependency semantic-release to v24.2.1](https://github.com/goraxe/generator-semantic-release/pull/172) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/51) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update andreasaugustin/actions-template-sync action to v2.4.2](https://github.com/goraxe-org/vultr-helm-charts/pull/50) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
