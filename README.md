@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency eslint-config-prettier to v10](https://github.com/goraxe/generator-semantic-release/pull/177) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [fix(deps): update dependency chalk to v5.4.1](https://github.com/goraxe/generator-semantic-release/pull/176) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency prettier to v3.4.2](https://github.com/goraxe/generator-semantic-release/pull/175) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency lint-staged to v15.4.0](https://github.com/goraxe/generator-semantic-release/pull/174) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [fix(deps): update dependency debug to v4.4.0](https://github.com/goraxe/git-release/pull/115) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency fs-extra to v11.3.0](https://github.com/goraxe/generator-semantic-release/pull/173) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency semantic-release to v24.2.1](https://github.com/goraxe/generator-semantic-release/pull/172) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
