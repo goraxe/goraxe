@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
+- [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency semantic-release to v24.2.3](https://github.com/goraxe/generator-semantic-release/pull/190) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update nginx docker tag to v1.27.4](https://github.com/goraxe/website/pull/8) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update docker/metadata-action digest to 8e1d546](https://github.com/goraxe/website/pull/7) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update docker/login-action digest to 327cd5a](https://github.com/goraxe/website/pull/6) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update docker/build-push-action digest to ca877d9](https://github.com/goraxe/website/pull/5) on [goraxe/website](https://github.com/goraxe/website)
-- [chore(deps): update dependency hugo to v0.143.1](https://github.com/goraxe/website/pull/4) on [goraxe/website](https://github.com/goraxe/website)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
