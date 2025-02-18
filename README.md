@@ -20,7 +20,7 @@
 ### 🔨 My recent Pull Requests
 
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.1](https://github.com/goraxe-org/vultr-helm-charts/pull/57) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update dependency hugo to v0.144.0](https://github.com/goraxe/website/pull/12) on [goraxe/website](https://github.com/goraxe/website)
+- [chore(deps): update dependency hugo to v0.144.1](https://github.com/goraxe/website/pull/12) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.1](https://github.com/goraxe/website/pull/11) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.1](https://github.com/goraxe/git-release/pull/119) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.1](https://github.com/goraxe/generator-semantic-release/pull/191) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
