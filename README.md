@@ -19,11 +19,11 @@
 - [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency prettier to v3.5.3](https://github.com/goraxe/generator-semantic-release/pull/194) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency eslint-config-prettier to v10.0.2](https://github.com/goraxe/generator-semantic-release/pull/193) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency prettier to v3.5.2](https://github.com/goraxe/generator-semantic-release/pull/192) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update docker/build-push-action digest to b16f42f](https://github.com/goraxe/website/pull/13) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.1](https://github.com/goraxe-org/vultr-helm-charts/pull/57) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update dependency hugo to v0.144.2](https://github.com/goraxe/website/pull/12) on [goraxe/website](https://github.com/goraxe/website)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
