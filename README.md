@@ -12,11 +12,11 @@
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
 ### 🌱 My latest projects
 
+- [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
 - [goraxe/workflows](https://github.com/goraxe/workflows) - 
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
-- [goraxe/ib-web-rust](https://github.com/goraxe/ib-web-rust) - IB WebAPI generated from OpenAPI spec
 ### 🔨 My recent Pull Requests
 
 - [chore(deps): update dependency prettier to v3.5.3](https://github.com/goraxe/generator-semantic-release/pull/194) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
