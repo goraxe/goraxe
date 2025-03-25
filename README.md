@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency sinon to v20](https://github.com/goraxe/git-release/pull/123) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency sinon to v19.0.5](https://github.com/goraxe/git-release/pull/122) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency eslint-plugin-prettier to v5.2.5](https://github.com/goraxe/generator-semantic-release/pull/198) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency lint-staged to v15.5.0](https://github.com/goraxe/generator-semantic-release/pull/197) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update node.js to v20.19.0](https://github.com/goraxe/git-release/pull/121) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency sinon to v19.0.4](https://github.com/goraxe/git-release/pull/120) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency eslint-config-prettier to v10.1.1](https://github.com/goraxe/generator-semantic-release/pull/196) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency @babel/core to v7.26.10](https://github.com/goraxe/generator-semantic-release/pull/195) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
