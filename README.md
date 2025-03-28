@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency python to 3.13](https://github.com/goraxe/website/pull/15) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update dependency node to v22](https://github.com/goraxe/git-release/pull/125) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency python to 3.13](https://github.com/goraxe/git-release/pull/124) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency node to v22](https://github.com/goraxe/generator-semantic-release/pull/200) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency python to 3.13](https://github.com/goraxe/generator-semantic-release/pull/199) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/58) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
