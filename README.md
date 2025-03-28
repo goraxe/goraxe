@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency node to v22](https://github.com/goraxe/git-release/pull/125) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency python to 3.13](https://github.com/goraxe/git-release/pull/124) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency node to v22](https://github.com/goraxe/generator-semantic-release/pull/200) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update dependency python to 3.13](https://github.com/goraxe/generator-semantic-release/pull/199) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/58) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore: Configure Renovate](https://github.com/goraxe/workflows/pull/1) on [goraxe/workflows](https://github.com/goraxe/workflows)
-- [chore(deps): update docker/login-action digest to 74a5d14](https://github.com/goraxe/website/pull/14) on [goraxe/website](https://github.com/goraxe/website)
-- [chore(deps): update dependency sinon to v20](https://github.com/goraxe/git-release/pull/123) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency sinon to v19.0.5](https://github.com/goraxe/git-release/pull/122) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
