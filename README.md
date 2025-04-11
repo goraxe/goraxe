@@ -21,7 +21,7 @@
 
 - [chore(deps): update dependency eslint-config-prettier to v10.1.2](https://github.com/goraxe/generator-semantic-release/pull/202) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency eslint-plugin-prettier to v5.2.6](https://github.com/goraxe/generator-semantic-release/pull/201) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency golang to v1.24.2](https://github.com/goraxe-org/vultr-helm-charts/pull/60) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/60) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency python to 3.13](https://github.com/goraxe/template/pull/29) on [goraxe/template](https://github.com/goraxe/template)
 - [chore(deps): update dependency python to 3.13](https://github.com/goraxe-org/vultr-helm-charts/pull/59) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
