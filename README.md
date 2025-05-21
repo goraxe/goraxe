@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update node.js to v22.16.0](https://github.com/goraxe/generator-semantic-release/pull/216) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency conventional-changelog-conventionalcommits to v9](https://github.com/goraxe/git-release/pull/131) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe/git-release/pull/130) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe/generator-semantic-release/pull/215) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency semantic-release to v24.2.4](https://github.com/goraxe/generator-semantic-release/pull/214) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update node.js to v20.19.2](https://github.com/goraxe/git-release/pull/129) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
