@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update actions/create-github-app-token action to v2](https://github.com/goraxe/website/pull/16) on [goraxe/website](https://github.com/goraxe/website)
+- [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe/template/pull/30) on [goraxe/template](https://github.com/goraxe/template)
 - [chore(deps): update node.js to v22.16.0](https://github.com/goraxe/generator-semantic-release/pull/216) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency conventional-changelog-conventionalcommits to v9](https://github.com/goraxe/git-release/pull/131) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe/git-release/pull/130) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe/generator-semantic-release/pull/215) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency semantic-release to v24.2.4](https://github.com/goraxe/generator-semantic-release/pull/214) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
