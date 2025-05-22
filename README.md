@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
-- [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
 ### 🌱 My latest projects
 
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
