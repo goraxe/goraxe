@@ -5,9 +5,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
-- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/template](https://github.com/goraxe/template) - 
+- [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 ### 🌱 My latest projects
@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe-org/vultr-helm-charts/pull/63) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update dependency helm to v3.18.0](https://github.com/goraxe-org/vultr-helm-charts/pull/62) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency semantic-release to v24.2.5](https://github.com/goraxe/generator-semantic-release/pull/217) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency xo to v1](https://github.com/goraxe/git-release/pull/133) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency xo to v0.61.1](https://github.com/goraxe/git-release/pull/132) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update actions/create-github-app-token action to v2](https://github.com/goraxe/website/pull/16) on [goraxe/website](https://github.com/goraxe/website)
-- [chore(deps): update asdf-vm/actions action to v4](https://github.com/goraxe/template/pull/30) on [goraxe/template](https://github.com/goraxe/template)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
