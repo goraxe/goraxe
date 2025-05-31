@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency xo to v1.0.5](https://github.com/goraxe/git-release/pull/136) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency xo to v1.0.4](https://github.com/goraxe/git-release/pull/135) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency @babel/core to v7.27.4](https://github.com/goraxe/generator-semantic-release/pull/221) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency eslint-plugin-prettier to v5.4.1](https://github.com/goraxe/generator-semantic-release/pull/220) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency xo to v1.0.1](https://github.com/goraxe/git-release/pull/134) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency helm to v3.18.1](https://github.com/goraxe-org/vultr-helm-charts/pull/64) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
