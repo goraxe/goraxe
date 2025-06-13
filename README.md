@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency sinon to v21](https://github.com/goraxe/git-release/pull/139) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update jest monorepo to v30 (major)](https://github.com/goraxe/generator-semantic-release/pull/222) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency golang to v1.24.4](https://github.com/goraxe-org/vultr-helm-charts/pull/66) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency xo to v1.1.0](https://github.com/goraxe/git-release/pull/138) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency ava to v6.4.0](https://github.com/goraxe/git-release/pull/137) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency helm to v3.18.2](https://github.com/goraxe-org/vultr-helm-charts/pull/65) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
