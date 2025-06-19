@@ -19,11 +19,11 @@
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update jest monorepo to v30.0.1](https://github.com/goraxe/generator-semantic-release/pull/226) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency eslint-plugin-prettier to v5.5.0](https://github.com/goraxe/generator-semantic-release/pull/225) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency helm to v3.18.3](https://github.com/goraxe-org/vultr-helm-charts/pull/67) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency lint-staged to v16.1.2](https://github.com/goraxe/generator-semantic-release/pull/224) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency lint-staged to v16.1.1](https://github.com/goraxe/generator-semantic-release/pull/223) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency sinon to v21](https://github.com/goraxe/git-release/pull/139) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
