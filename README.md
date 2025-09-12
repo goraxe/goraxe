@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
+- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update node.js to v20.19.5](https://github.com/goraxe/git-release/pull/146) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency lint-staged to v16.1.6](https://github.com/goraxe/generator-semantic-release/pull/234) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency fs-extra to v11.3.1](https://github.com/goraxe/git-release/pull/145) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency fs-extra to v11.3.1](https://github.com/goraxe/generator-semantic-release/pull/233) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update actions/stale action to v10](https://github.com/goraxe/configfiles/pull/7) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
-- [chore(deps): update actions/checkout action to v5](https://github.com/goraxe/configfiles/pull/6) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
-- [chore(deps): update dependency xo to v1.2.2](https://github.com/goraxe/git-release/pull/144) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
