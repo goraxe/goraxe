@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update actions/checkout action to v5](https://github.com/goraxe/git-release/pull/147) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency prettier to v3.6.2](https://github.com/goraxe/generator-semantic-release/pull/235) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update node.js to v20.19.5](https://github.com/goraxe/git-release/pull/146) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency lint-staged to v16.1.6](https://github.com/goraxe/generator-semantic-release/pull/234) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency fs-extra to v11.3.1](https://github.com/goraxe/git-release/pull/145) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency fs-extra to v11.3.1](https://github.com/goraxe/generator-semantic-release/pull/233) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update actions/stale action to v10](https://github.com/goraxe/configfiles/pull/7) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
