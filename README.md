@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
-- [chore(deps): update actions/checkout action to v5](https://github.com/goraxe/generator-semantic-release/pull/238) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update actions/setup-python action to v6](https://github.com/goraxe/git-release/pull/149) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [fix(deps): update dependency chalk to v5.6.2](https://github.com/goraxe/generator-semantic-release/pull/237) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update actions/setup-node action to v5](https://github.com/goraxe/git-release/pull/148) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update node.js to v22.19.0](https://github.com/goraxe/generator-semantic-release/pull/236) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/69) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.2](https://github.com/goraxe-org/vultr-helm-charts/pull/68) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update actions/setup-node action to v5](https://github.com/goraxe/generator-semantic-release/pull/239) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update actions/checkout action to v5](https://github.com/goraxe/template/pull/32) on [goraxe/template](https://github.com/goraxe/template)
+- [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.2](https://github.com/goraxe/template/pull/31) on [goraxe/template](https://github.com/goraxe/template)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
