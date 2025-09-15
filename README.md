@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update actions/setup-python action to v6](https://github.com/goraxe/template/pull/33) on [goraxe/template](https://github.com/goraxe/template)
 - [fix(deps): update dependency debug to v4.4.3](https://github.com/goraxe/git-release/pull/150) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update actions/setup-python action to v6](https://github.com/goraxe/generator-semantic-release/pull/240) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/69) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update andreasaugustin/actions-template-sync action to v2.5.2](https://github.com/goraxe-org/vultr-helm-charts/pull/68) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update actions/setup-node action to v5](https://github.com/goraxe/generator-semantic-release/pull/239) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
