@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency lint-staged to v16.2.2](https://github.com/goraxe/generator-semantic-release/pull/248) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update jest monorepo to v30.2.0](https://github.com/goraxe/generator-semantic-release/pull/247) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency lint-staged to v16.2.1](https://github.com/goraxe/generator-semantic-release/pull/246) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update dependency yeoman-test to v11](https://github.com/goraxe/generator-semantic-release/pull/245) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 - [chore(deps): update node.js to v22.20.0](https://github.com/goraxe/generator-semantic-release/pull/244) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency lint-staged to v16.2.0](https://github.com/goraxe/generator-semantic-release/pull/243) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
