@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency python to 3.14](https://github.com/goraxe/git-release/pull/153) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update dependency python to 3.14](https://github.com/goraxe/generator-semantic-release/pull/250) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update dependency python to 3.14](https://github.com/goraxe-org/vultr-helm-charts/pull/72) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update dependency python to 3.14](https://github.com/goraxe/template/pull/34) on [goraxe/template](https://github.com/goraxe/template)
 - [chore(deps): update dependency xo to v1.2.3](https://github.com/goraxe/git-release/pull/152) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency lint-staged to v16.2.3](https://github.com/goraxe/generator-semantic-release/pull/249) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency lint-staged to v16.2.2](https://github.com/goraxe/generator-semantic-release/pull/248) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update jest monorepo to v30.2.0](https://github.com/goraxe/generator-semantic-release/pull/247) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
