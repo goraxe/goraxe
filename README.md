@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update actions/setup-python action to v6](https://github.com/goraxe/website/pull/18) on [goraxe/website](https://github.com/goraxe/website)
+- [chore(deps): update actions/checkout action to v5](https://github.com/goraxe/website/pull/17) on [goraxe/website](https://github.com/goraxe/website)
+- [Update dependency org.springframework.boot:spring-boot-starter-parent to v1.5.22.RELEASE](https://github.com/goraxe/rssreader/pull/25) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Replace dependency xml-apis:xml-apis with xml-apis:xml-apis](https://github.com/goraxe/rssreader/pull/24) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update node.js to v24](https://github.com/goraxe/generator-semantic-release/pull/258) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update dependency helm to v4](https://github.com/goraxe-org/vultr-helm-charts/pull/76) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/75) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update dependency node to v24](https://github.com/goraxe/generator-semantic-release/pull/257) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
-- [chore(deps): update node.js to v22.21.1](https://github.com/goraxe/generator-semantic-release/pull/256) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
