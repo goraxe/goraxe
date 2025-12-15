@@ -22,7 +22,7 @@
 - [chore(deps): update actions/stale action to v10 - autoclosed](https://github.com/goraxe/configfiles/pull/10) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 - [chore(deps): update node.js to v20.19.6](https://github.com/goraxe/git-release/pull/157) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update asdf-vm/actions action to v4.0.1](https://github.com/goraxe/git-release/pull/156) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/configfiles/pull/9) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update actions/checkout action to v6 - autoclosed](https://github.com/goraxe/configfiles/pull/9) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
