@@ -5,9 +5,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
-- [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🌱 My latest projects
@@ -19,11 +19,10 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
-- [chore(deps): update actions/setup-python action to v6](https://github.com/goraxe/website/pull/18) on [goraxe/website](https://github.com/goraxe/website)
-- [chore(deps): update actions/checkout action to v5](https://github.com/goraxe/website/pull/17) on [goraxe/website](https://github.com/goraxe/website)
-- [Update dependency org.springframework.boot:spring-boot-starter-parent to v1.5.22.RELEASE](https://github.com/goraxe/rssreader/pull/25) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Replace dependency xml-apis:xml-apis with xml-apis:xml-apis](https://github.com/goraxe/rssreader/pull/24) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [chore(deps): update node.js to v24](https://github.com/goraxe/generator-semantic-release/pull/258) on [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release)
+- [chore(deps): update node.js to v20.19.6](https://github.com/goraxe/git-release/pull/157) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update asdf-vm/actions action to v4.0.1](https://github.com/goraxe/git-release/pull/156) on [goraxe/git-release](https://github.com/goraxe/git-release)
+- [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/configfiles/pull/9) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update nebularg/actions-luacheck action to v1.1.2](https://github.com/goraxe/configfiles/pull/8) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
