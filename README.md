@@ -19,7 +19,7 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
-- [chore(deps): update actions/stale action to v10](https://github.com/goraxe/configfiles/pull/10) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update actions/stale action to v10 - autoclosed](https://github.com/goraxe/configfiles/pull/10) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 - [chore(deps): update node.js to v20.19.6](https://github.com/goraxe/git-release/pull/157) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
