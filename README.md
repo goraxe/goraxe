@@ -20,7 +20,7 @@
 ### 🔨 My recent Pull Requests
 
 - [chore(deps): update actions/stale action to v10 - autoclosed](https://github.com/goraxe/configfiles/pull/13) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
-- [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/configfiles/pull/12) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update actions/checkout action to v6 - autoclosed](https://github.com/goraxe/configfiles/pull/12) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 - [chore(deps): update nebularg/actions-luacheck action to v1.1.2 - autoclosed](https://github.com/goraxe/configfiles/pull/11) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 - [chore(deps): update actions/stale action to v10 - autoclosed](https://github.com/goraxe/configfiles/pull/10) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 ### ⭐ Recent Stars
