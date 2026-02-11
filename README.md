@@ -6,9 +6,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
-- [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🌱 My latest projects
 
@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
-- [chore(deps): update dependency python to 3.14](https://github.com/goraxe/template/pull/36) on [goraxe/template](https://github.com/goraxe/template)
-- [chore(deps): update asdf-vm/actions action to v4.0.1](https://github.com/goraxe/template/pull/35) on [goraxe/template](https://github.com/goraxe/template)
-- [chore(deps): update dependency sinon to v21.0.1](https://github.com/goraxe/git-release/pull/160) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [Replace dependency info.cukes:cucumber-junit with io.cucumber:cucumber-junit](https://github.com/goraxe/rssreader/pull/27) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Replace dependency info.cukes:cucumber-java with io.cucumber:cucumber-java](https://github.com/goraxe/rssreader/pull/26) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [chore(deps): update asdf](https://github.com/goraxe-org/vultr-helm-charts/pull/78) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update asdf-vm/actions action to v4.0.1](https://github.com/goraxe-org/vultr-helm-charts/pull/77) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(deps): update actions/cache action to v5](https://github.com/goraxe/template/pull/37) on [goraxe/template](https://github.com/goraxe/template)
+- [Update dependency com.google.cloud.tools:appengine-maven-plugin to v1.3.2](https://github.com/goraxe/rssreader/pull/29) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Replace dependency info.cukes:cucumber-spring with io.cucumber:cucumber-spring](https://github.com/goraxe/rssreader/pull/28) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
