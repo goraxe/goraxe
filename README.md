@@ -19,11 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency python to 3.14](https://github.com/goraxe/template/pull/36) on [goraxe/template](https://github.com/goraxe/template)
+- [chore(deps): update asdf-vm/actions action to v4.0.1](https://github.com/goraxe/template/pull/35) on [goraxe/template](https://github.com/goraxe/template)
+- [chore(deps): update dependency sinon to v21.0.1](https://github.com/goraxe/git-release/pull/160) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [Replace dependency info.cukes:cucumber-junit with io.cucumber:cucumber-junit](https://github.com/goraxe/rssreader/pull/27) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Replace dependency info.cukes:cucumber-java with io.cucumber:cucumber-java](https://github.com/goraxe/rssreader/pull/26) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [chore(deps): update dependency lodash-es to v4.17.23](https://github.com/goraxe/git-release/pull/159) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency fs-extra to v11.3.3](https://github.com/goraxe/git-release/pull/158) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update actions/stale action to v10](https://github.com/goraxe/configfiles/pull/15) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
