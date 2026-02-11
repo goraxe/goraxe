@@ -19,10 +19,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update actions/stale action to v10](https://github.com/goraxe/configfiles/pull/15) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update nebularg/actions-luacheck action to v1.1.2](https://github.com/goraxe/configfiles/pull/14) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update dependency hugo to v0.155.3](https://github.com/goraxe/website/pull/19) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update actions/stale action to v10 - autoclosed](https://github.com/goraxe/configfiles/pull/13) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
-- [chore(deps): update actions/checkout action to v6 - autoclosed](https://github.com/goraxe/configfiles/pull/12) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
-- [chore(deps): update nebularg/actions-luacheck action to v1.1.2 - autoclosed](https://github.com/goraxe/configfiles/pull/11) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
-- [chore(deps): update actions/stale action to v10 - autoclosed](https://github.com/goraxe/configfiles/pull/10) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
+- [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/configfiles/pull/12) on [goraxe/configfiles](https://github.com/goraxe/configfiles)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
