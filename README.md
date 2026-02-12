@@ -22,8 +22,8 @@
 - [chore(deps): update actions/checkout action to v6](https://github.com/goraxe-org/vultr-helm-charts/pull/80) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update vultr/cert-manager-webhook-vultr docker tag to v0.3.1](https://github.com/goraxe-org/vultr-helm-charts/pull/79) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/template/pull/38) on [goraxe/template](https://github.com/goraxe/template)
-- [Update dependency info.cukes:cucumber-junit to v1.2.6](https://github.com/goraxe/rssreader/pull/31) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Update dependency info.cukes:cucumber-java to v1.2.6](https://github.com/goraxe/rssreader/pull/30) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency info.cukes:cucumber-junit to v1.2.6 - autoclosed](https://github.com/goraxe/rssreader/pull/31) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency info.cukes:cucumber-java to v1.2.6 - autoclosed](https://github.com/goraxe/rssreader/pull/30) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
