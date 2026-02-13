@@ -19,8 +19,8 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
-- [Update dependency junit:junit to v4.13.2](https://github.com/goraxe/rssreader/pull/33) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Update dependency info.cukes:cucumber-spring to v1.2.6](https://github.com/goraxe/rssreader/pull/32) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency junit:junit to v4.13.2 - autoclosed](https://github.com/goraxe/rssreader/pull/33) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency info.cukes:cucumber-spring to v1.2.6 - autoclosed](https://github.com/goraxe/rssreader/pull/32) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update actions/cache action to v5](https://github.com/goraxe/website/pull/20) on [goraxe/website](https://github.com/goraxe/website)
 - [chore(deps): update actions/checkout action to v6](https://github.com/goraxe-org/vultr-helm-charts/pull/80) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 - [chore(deps): update vultr/cert-manager-webhook-vultr docker tag to v0.3.1](https://github.com/goraxe-org/vultr-helm-charts/pull/79) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
