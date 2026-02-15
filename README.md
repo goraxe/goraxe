@@ -6,9 +6,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
-- [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
+- [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🌱 My latest projects
 
