@@ -9,7 +9,6 @@
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
-- [goraxe/website](https://github.com/goraxe/website) - Personal website
 ### 🌱 My latest projects
 
 - [goraxe/bevy-terrain-1](https://github.com/goraxe/bevy-terrain-1) - proto type of terrain generation based on acerola&#39;s dirt jam
