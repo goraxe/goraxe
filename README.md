@@ -18,11 +18,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [fix(vultr-ccm): bump to v0.10.5](https://github.com/goraxe-org/vultr-helm-charts/pull/82) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [fix: pin ca-certificates version for hadolint compliance](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/5) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
+- [fix: pin ca-certificates version for hadolint compliance](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/4) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
+- [fix: update Alpine to 3.21.3 and unpin ca-certificates](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/3) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
 - [fix: skip nodes without Vultr provider ID in lifecycle checks](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/2) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
-- [fix(vultr-csi): update stale sidecar images to registry.k8s.io](https://github.com/goraxe-org/vultr-helm-charts/pull/81) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [Update dependency junit:junit to v4.13.2 - autoclosed](https://github.com/goraxe/rssreader/pull/33) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Update dependency info.cukes:cucumber-spring to v1.2.6 - autoclosed](https://github.com/goraxe/rssreader/pull/32) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [chore(deps): update actions/cache action to v5](https://github.com/goraxe/website/pull/20) on [goraxe/website](https://github.com/goraxe/website)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
