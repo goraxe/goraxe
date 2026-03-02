@@ -18,11 +18,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [Replace dependency info.cukes:cucumber-junit with io.cucumber:cucumber-junit](https://github.com/goraxe/rssreader/pull/35) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Replace dependency info.cukes:cucumber-java with io.cucumber:cucumber-java](https://github.com/goraxe/rssreader/pull/34) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update dependency ava to v7](https://github.com/goraxe/git-release/pull/163) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [chore(deps): update dependency conventional-changelog-conventionalcommits to v9.2.0](https://github.com/goraxe/git-release/pull/162) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [fix(vultr-ccm): bump to v0.10.5](https://github.com/goraxe-org/vultr-helm-charts/pull/82) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [fix: pin ca-certificates version for hadolint compliance](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/5) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
-- [fix: pin ca-certificates version for hadolint compliance](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/4) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
