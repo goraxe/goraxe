@@ -18,11 +18,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [Update dependency info.cukes:cucumber-java to v1.2.6](https://github.com/goraxe/rssreader/pull/39) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Update dependency com.google.cloud.tools:appengine-maven-plugin to v1.3.2](https://github.com/goraxe/rssreader/pull/38) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Replace dependency xml-apis:xml-apis with xml-apis:xml-apis](https://github.com/goraxe/rssreader/pull/37) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Replace dependency info.cukes:cucumber-spring with io.cucumber:cucumber-spring](https://github.com/goraxe/rssreader/pull/36) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [chore(deps): update dependency nyc to v18](https://github.com/goraxe/git-release/pull/164) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [Replace dependency info.cukes:cucumber-junit with io.cucumber:cucumber-junit](https://github.com/goraxe/rssreader/pull/35) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [Replace dependency info.cukes:cucumber-java with io.cucumber:cucumber-java](https://github.com/goraxe/rssreader/pull/34) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
