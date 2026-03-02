@@ -18,11 +18,11 @@
 - [goraxe/rust-ibkr-cpapi](https://github.com/goraxe/rust-ibkr-cpapi) - 
 ### 🔨 My recent Pull Requests
 
+- [Replace dependency xml-apis:xml-apis with xml-apis:xml-apis](https://github.com/goraxe/rssreader/pull/37) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [Replace dependency info.cukes:cucumber-spring with io.cucumber:cucumber-spring](https://github.com/goraxe/rssreader/pull/36) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
+- [chore(deps): update dependency nyc to v18](https://github.com/goraxe/git-release/pull/164) on [goraxe/git-release](https://github.com/goraxe/git-release)
 - [Replace dependency info.cukes:cucumber-junit with io.cucumber:cucumber-junit](https://github.com/goraxe/rssreader/pull/35) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
 - [Replace dependency info.cukes:cucumber-java with io.cucumber:cucumber-java](https://github.com/goraxe/rssreader/pull/34) on [goraxe/rssreader](https://github.com/goraxe/rssreader)
-- [chore(deps): update dependency ava to v7](https://github.com/goraxe/git-release/pull/163) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency conventional-changelog-conventionalcommits to v9.2.0](https://github.com/goraxe/git-release/pull/162) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [fix(vultr-ccm): bump to v0.10.5](https://github.com/goraxe-org/vultr-helm-charts/pull/82) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
