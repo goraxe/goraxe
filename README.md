@@ -6,6 +6,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
+- [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/template](https://github.com/goraxe/template) - 
 - [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 - [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
