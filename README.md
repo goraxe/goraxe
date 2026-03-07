@@ -19,11 +19,11 @@
 - [goraxe/workflows](https://github.com/goraxe/workflows) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update golangci/golangci-lint-action action to v9](https://github.com/goraxe/alert-notify/pull/7) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
+- [chore(deps): update dependency node to v24](https://github.com/goraxe/alert-notify/pull/6) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update actions/setup-node action to v6](https://github.com/goraxe/alert-notify/pull/5) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update actions/setup-go action to v6](https://github.com/goraxe/alert-notify/pull/4) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/alert-notify/pull/2) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
-- [fix(deps): update module github.com/godbus/dbus/v5 to v5.2.2](https://github.com/goraxe/alert-notify/pull/1) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
-- [chore(deps): update dependency golang to v1.26.1](https://github.com/goraxe-org/vultr-helm-charts/pull/83) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
