@@ -19,11 +19,11 @@
 - [goraxe/workflows](https://github.com/goraxe/workflows) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): update actions/setup-node action to v6](https://github.com/goraxe/alert-notify/pull/5) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
+- [chore(deps): update actions/setup-go action to v6](https://github.com/goraxe/alert-notify/pull/4) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update actions/checkout action to v6](https://github.com/goraxe/alert-notify/pull/2) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [fix(deps): update module github.com/godbus/dbus/v5 to v5.2.2](https://github.com/goraxe/alert-notify/pull/1) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update dependency golang to v1.26.1](https://github.com/goraxe-org/vultr-helm-charts/pull/83) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [chore(deps): update node.js to v20.20.1](https://github.com/goraxe/git-release/pull/168) on [goraxe/git-release](https://github.com/goraxe/git-release)
-- [chore(deps): update dependency conventional-changelog-conventionalcommits to v9.3.0](https://github.com/goraxe/git-release/pull/167) on [goraxe/git-release](https://github.com/goraxe/git-release)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
