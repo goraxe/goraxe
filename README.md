@@ -19,7 +19,7 @@
 - [goraxe/workflows](https://github.com/goraxe/workflows) - 
 ### 🔨 My recent Pull Requests
 
-- [fix(deps): update module github.com/go-openapi/strfmt to v0.26.0](https://github.com/goraxe/alert-notify/pull/8) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
+- [fix(deps): update minor and patch dependencies](https://github.com/goraxe/alert-notify/pull/8) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update golangci/golangci-lint-action action to v9](https://github.com/goraxe/alert-notify/pull/7) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update dependency node to v24](https://github.com/goraxe/alert-notify/pull/6) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
 - [chore(deps): update actions/setup-node action to v6](https://github.com/goraxe/alert-notify/pull/5) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
