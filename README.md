@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/code-documenter](https://github.com/goraxe/code-documenter) - Generate Mermaid diagrams from Rust, Go, and TypeScript codebases
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/alert-notify](https://github.com/goraxe/alert-notify) - Desktop notification bridge for Prometheus Alertmanager alerts
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/template](https://github.com/goraxe/template) - 
-- [goraxe/generator-semantic-release](https://github.com/goraxe/generator-semantic-release) - 
 ### 🌱 My latest projects
 
+- [goraxe/code-documenter](https://github.com/goraxe/code-documenter) - Generate Mermaid diagrams from Rust, Go, and TypeScript codebases
 - [goraxe/alert-notify](https://github.com/goraxe/alert-notify) - Desktop notification bridge for Prometheus Alertmanager alerts
 - [goraxe/bevy-terrain-1](https://github.com/goraxe/bevy-terrain-1) - proto type of terrain generation based on acerola&#39;s dirt jam
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
 - [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
-- [goraxe/workflows](https://github.com/goraxe/workflows) - 
 ### 🔨 My recent Pull Requests
 
 - [fix(deps): update minor and patch dependencies](https://github.com/goraxe/alert-notify/pull/8) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
