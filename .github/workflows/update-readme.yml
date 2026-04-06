@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{ cron: "0 0 * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: { branches: ["main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -49,7 +49,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-          
+
           #plugin_wakatime: yes
           #plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
           #plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
@@ -57,7 +57,7 @@ jobs:
           #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
   markscribe:
     runs-on: ubuntu-latest
-    needs: 
+    needs:
       - github-metrics
     permissions:
       contents: write
@@ -72,12 +72,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          template: 'README.gtpl'
-          writeTo: 'README.md'
+          template: "README.gtpl"
+          writeTo: "README.md"
 
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
-          commit_message: 'markscribe: update README.md'
+          commit_message: "markscribe: update README.md"
