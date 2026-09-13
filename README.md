@@ -5,10 +5,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/code-documenter](https://github.com/goraxe/code-documenter) - Generate Mermaid diagrams from Rust, Go, and TypeScript codebases
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/alert-notify](https://github.com/goraxe/alert-notify) - Desktop notification bridge for Prometheus Alertmanager alerts
-- [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/template](https://github.com/goraxe/template) - 
 ### 🌱 My latest projects
 
