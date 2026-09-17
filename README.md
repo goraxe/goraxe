@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/rust-rubix](https://github.com/goraxe/rust-rubix) - A simple rubix cube implementation in bevy
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/code-documenter](https://github.com/goraxe/code-documenter) - Generate Mermaid diagrams from Rust, Go, and TypeScript codebases
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
 - [goraxe/alert-notify](https://github.com/goraxe/alert-notify) - Desktop notification bridge for Prometheus Alertmanager alerts
-- [goraxe/template](https://github.com/goraxe/template) - 
 ### 🌱 My latest projects
 
+- [goraxe/rust-rubix](https://github.com/goraxe/rust-rubix) - A simple rubix cube implementation in bevy
 - [goraxe/code-documenter](https://github.com/goraxe/code-documenter) - Generate Mermaid diagrams from Rust, Go, and TypeScript codebases
 - [goraxe/alert-notify](https://github.com/goraxe/alert-notify) - Desktop notification bridge for Prometheus Alertmanager alerts
 - [goraxe/bevy-terrain-1](https://github.com/goraxe/bevy-terrain-1) - proto type of terrain generation based on acerola&#39;s dirt jam
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
-- [goraxe/service-mutator-webhook](https://github.com/goraxe/service-mutator-webhook) - 
 ### 🔨 My recent Pull Requests
 
 - [fix(deps): update minor and patch dependencies](https://github.com/goraxe/alert-notify/pull/8) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
