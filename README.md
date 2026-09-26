@@ -19,11 +19,11 @@
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
 ### 🔨 My recent Pull Requests
 
-- [fix(deps): update minor and patch dependencies](https://github.com/goraxe/alert-notify/pull/8) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
-- [chore(deps): update golangci/golangci-lint-action action to v9](https://github.com/goraxe/alert-notify/pull/7) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
-- [chore(deps): update dependency node to v24](https://github.com/goraxe/alert-notify/pull/6) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
-- [chore(deps): update actions/setup-node action to v6](https://github.com/goraxe/alert-notify/pull/5) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
-- [chore(deps): update actions/setup-go action to v6](https://github.com/goraxe/alert-notify/pull/4) on [goraxe/alert-notify](https://github.com/goraxe/alert-notify)
+- [ci: pin helm-docs-built hook to v1.14.2](https://github.com/goraxe-org/vultr-helm-charts/pull/86) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [chore(vultr-ccm): bump image to 0.10.6](https://github.com/goraxe-org/vultr-helm-charts/pull/85) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
+- [fix(ci): unblock the releaser pipeline](https://github.com/goraxe-org/vultr-cloud-controller-manager/pull/7) on [goraxe-org/vultr-cloud-controller-manager](https://github.com/goraxe-org/vultr-cloud-controller-manager)
+- [fix(kubeadm): guard join/init on an exact Node lookup](https://github.com/goraxe/puppetlabs-kubernetes/pull/2) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
+- [fix(etcd): keep the verified archive so checksum installs are idempotent](https://github.com/goraxe/puppetlabs-kubernetes/pull/1) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 ### ⭐ Recent Stars
 
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
