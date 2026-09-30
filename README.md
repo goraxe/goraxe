@@ -26,10 +26,10 @@
 - [fix(etcd): keep the verified archive so checksum installs are idempotent](https://github.com/goraxe/puppetlabs-kubernetes/pull/1) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 ### ⭐ Recent Stars
 
+- [cbrock84/headcount](https://github.com/cbrock84/headcount) - An agent organization structured as a company — 15&#43; departments, 125&#43; skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.  
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) - Neovim Indentation Line with Animations
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 ![](https://komarev.com/ghpvc/?username=goraxe)
