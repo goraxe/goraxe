@@ -5,10 +5,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [goraxe/dotfiles](https://github.com/goraxe/dotfiles) - my collection of config files and handy scripts
 - [goraxe/rust-rubix](https://github.com/goraxe/rust-rubix) - A simple rubix cube implementation in bevy
 - [goraxe/configfiles](https://github.com/goraxe/configfiles) - some safe to share files from ~/.config 
 - [goraxe/code-documenter](https://github.com/goraxe/code-documenter) - Generate Mermaid diagrams from Rust, Go, and TypeScript codebases
-- [goraxe/alert-notify](https://github.com/goraxe/alert-notify) - Desktop notification bridge for Prometheus Alertmanager alerts
 - [goraxe/git-release](https://github.com/goraxe/git-release) - 
 ### 🌱 My latest projects
 
