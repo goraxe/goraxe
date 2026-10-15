@@ -19,11 +19,11 @@
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
 ### 🔨 My recent Pull Requests
 
+- [fix(kubeadm): point the v1beta3 InitConfiguration at the patches directory](https://github.com/goraxe/puppetlabs-kubernetes/pull/8) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 - [fix: ignore Vultr&#39;s -1 priority when matching non-MX/SRV records](https://github.com/goraxe-org/external-dns-vultr-webhook/pull/1) on [goraxe-org/external-dns-vultr-webhook](https://github.com/goraxe-org/external-dns-vultr-webhook)
 - [ci: run the Integration job on ubuntu-24.04 against Debian 12 and 13](https://github.com/goraxe/puppetlabs-kubernetes/pull/7) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 - [fix(packages): load br_netfilter before every Sysctl (one-run convergence on fresh nodes)](https://github.com/goraxe/puppetlabs-kubernetes/pull/6) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 - [feat(kubeadm): per-node bind-address and probe-host patches for the control plane](https://github.com/goraxe/puppetlabs-kubernetes/pull/5) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
-- [ci: install puppetlabs_spec_helper in the development group](https://github.com/goraxe/puppetlabs-kubernetes/pull/4) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 ### ⭐ Recent Stars
 
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - An agent organization structured as a company — 15&#43; departments, 125&#43; skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.
