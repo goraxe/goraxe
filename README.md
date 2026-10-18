@@ -19,11 +19,11 @@
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
 ### 🔨 My recent Pull Requests
 
+- [feat(kubeadm): apiserver_env for the kube-apiserver patch](https://github.com/goraxe/puppetlabs-kubernetes/pull/9) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 - [feat(sign): add reusable sign-only workflow for self-built images](https://github.com/goraxe-org/workflows/pull/22) on [goraxe-org/workflows](https://github.com/goraxe-org/workflows)
 - [fix(build-sign): sign keyless in the legacy cosign format](https://github.com/goraxe-org/workflows/pull/21) on [goraxe-org/workflows](https://github.com/goraxe-org/workflows)
 - [feat(build-sign): add reusable build, push and keyless-sign workflow](https://github.com/goraxe-org/workflows/pull/20) on [goraxe-org/workflows](https://github.com/goraxe-org/workflows)
 - [feat(vultr-ccm,vultr-csi): add tolerations values for the edge taint](https://github.com/goraxe-org/vultr-helm-charts/pull/88) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
-- [fix(vultr-csi): update vultr-csi plugin and CSI sidecars (CVE fixes)](https://github.com/goraxe-org/vultr-helm-charts/pull/87) on [goraxe-org/vultr-helm-charts](https://github.com/goraxe-org/vultr-helm-charts)
 ### ⭐ Recent Stars
 
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - An agent organization structured as a company — 15&#43; departments, 125&#43; skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.
