@@ -19,11 +19,11 @@
 - [goraxe/nuxt-docker-hang-layer](https://github.com/goraxe/nuxt-docker-hang-layer) - 
 ### 🔨 My recent Pull Requests
 
+- [claude-statusline: CLAUDE_USAGE_DIR moves the usage log](https://github.com/goraxe/dotfiles/pull/38) on [goraxe/dotfiles](https://github.com/goraxe/dotfiles)
 - [fix(metadata): allow puppet-archive 9.x](https://github.com/goraxe/puppetlabs-kubernetes/pull/10) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 - [feat(kubeadm): apiserver_env for the kube-apiserver patch](https://github.com/goraxe/puppetlabs-kubernetes/pull/9) on [goraxe/puppetlabs-kubernetes](https://github.com/goraxe/puppetlabs-kubernetes)
 - [feat(sign): add reusable sign-only workflow for self-built images](https://github.com/goraxe-org/workflows/pull/22) on [goraxe-org/workflows](https://github.com/goraxe-org/workflows)
 - [fix(build-sign): sign keyless in the legacy cosign format](https://github.com/goraxe-org/workflows/pull/21) on [goraxe-org/workflows](https://github.com/goraxe-org/workflows)
-- [feat(build-sign): add reusable build, push and keyless-sign workflow](https://github.com/goraxe-org/workflows/pull/20) on [goraxe-org/workflows](https://github.com/goraxe-org/workflows)
 ### ⭐ Recent Stars
 
 - [cbrock84/headcount](https://github.com/cbrock84/headcount) - An agent organization structured as a company — 15&#43; departments, 125&#43; skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.
